@@ -1,7 +1,7 @@
 [
   {
     "name": "Portfolio",
-    "repo": "ikenpachi/Portfolio-main",
+    "repo": "iKenpachi/Portfolio-main",
     "description": "Portfolio of Igor Ribeiro — Corrosivo. Cybersecurity, Red Team and Ethical Hacking.",
     "tags": [
       "Cybersecurity",
@@ -11,12 +11,38 @@
   },
   {
     "name": "Best-README",
-    "repo": "ikenpachi/Best-README",
+    "repo": "iKenpachi/Best-README",
     "description": "Animated GitHub profile of Igor Ribeiro — Corrosivo, with pigment transitions and light and dark themes.",
     "tags": [
       "SVG",
       "SMIL",
       "GitHub Profile"
     ]
+  },
+  {
+    "name": "iKenpachi",
+    "repo": "ikenpachi/iKenpachi",
+    "description": "New README - 2026",
+    "tags": []
+  },
+  {
+    "name": "Command-and-Control",
+    "repo": "ikenpachi/Command-and-Control",
+    "description": "Educational Red Team C2 framework in Python — control remote bots, run commands, and simulate post-exploitation tasks.",
+    "tags": [
+      "Python"
+    ]
+  },
+  {
+    "name": "W.A.S.P.",
+    "repo": "ikenpachi/W.A.S.P.",
+    "description": "Wireless Autonomous Surveillance Platform",
+    "tags": []
+  },
+  {
+    "name": "Wireless-Attacks-Docs-Red-Team",
+    "repo": "ikenpachi/Wireless-Attacks-Docs-Red-Team",
+    "description": "Repository to document Wireless Attacks (Red Team) studies and challenges, including tools, techniques and CTF analysis.",
+    "tags": []
   }
 ]
