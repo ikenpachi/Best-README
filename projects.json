@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Portfolio",
+    "repo": "ikenpachi/Portfolio-main",
+    "description": "Portfolio of Igor Ribeiro — Corrosivo. Cybersecurity, Red Team and Ethical Hacking.",
+    "tags": [
+      "Cybersecurity",
+      "Red Team",
+      "Ethical Hacking"
+    ]
+  },
+  {
+    "name": "Best-README",
+    "repo": "ikenpachi/Best-README",
+    "description": "Animated GitHub profile of Igor Ribeiro — Corrosivo, with pigment transitions and light and dark themes.",
+    "tags": [
+      "SVG",
+      "SMIL",
+      "GitHub Profile"
+    ]
+  }
+]
